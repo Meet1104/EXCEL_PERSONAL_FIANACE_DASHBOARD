@@ -8,7 +8,7 @@ The project transforms transaction-level data into an easy-to-understand dashboa
 
 ## 📊 Dashboard Preview
 
-<img width="599" height="293" alt="Screenshot 2026-11-19 114420" src="https://github.com/user-attachments/assets/13d24e55-42e9-4b59-8a0c-cf18caa9adfb" />
+<img width="596" height="287" alt="image" src="https://github.com/user-attachments/assets/d2bb9583-f63e-4a95-9be9-c70d9df4cc81" />
 
 ---
 
