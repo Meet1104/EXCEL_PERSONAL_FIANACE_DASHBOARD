@@ -8,10 +8,7 @@ The project transforms transaction-level data into an easy-to-understand dashboa
 
 ## 📊 Dashboard Preview
 
-<!-- Replace the image path below with your actual dashboard screenshot -->
-![Personal Finance Dashboard](images/personal-finance-dashboard.png)
-
-> **Image placeholder:** Save your main dashboard screenshot as `images/personal-finance-dashboard.png`.
+<img width="599" height="293" alt="Screenshot 2026-11-19 114420" src="https://github.com/user-attachments/assets/13d24e55-42e9-4b59-8a0c-cf18caa9adfb" />
 
 ---
 
@@ -93,61 +90,18 @@ Tracks the goal amount, actual amount saved, completion percentage, and contribu
 - KPI cards
 - Charts and data visualization
 
-## 🗂️ Workbook Structure
-
-The Excel workbook contains the following worksheets:
-
-| Worksheet | Purpose |
-|---|---|
-| `Dashboard` | Main interactive personal finance dashboard |
-| `Data` | Transaction-level financial data |
-| `Summary_Table` | Supporting summary tables and analysis |
-| `Financial_Goals` | Financial goals and progress tracking |
-
 ## 🖼️ Project Screenshots
 
-Add your screenshots to an `images` folder in the repository. Use the following filenames, or update the paths below to match your filenames.
-
-### Main Dashboard
-![Main Dashboard](images/personal-finance-dashboard.png)
-
 ### Financial Goals Tracker
-![Financial Goals Tracker](images/financial-goals-tracker.png)
+<img width="489" height="209" alt="Screenshot 2026-11-19 114534" src="https://github.com/user-attachments/assets/88d5f8fb-c273-4f8f-a607-3a7b568487d0" />
 
 ### Summary Tables and Analysis
-![Summary Tables](images/summary-analysis.png)
+<img width="915" height="280" alt="Screenshot 2026-11-19 114521" src="https://github.com/user-attachments/assets/a1dfb644-9d80-40df-bc9f-af30b9e2c939" />
 
 ### Transaction Dataset
-![Transaction Dataset](images/transaction-data.png)
+<img width="446" height="290" alt="Screenshot 2026-11-19 114443" src="https://github.com/user-attachments/assets/0b9870fe-f48f-487e-8037-94a571a3ebf2" />
 
 ---
-
-## 📁 Suggested Repository Structure
-
-```text
-EXCEL_PERSONAL_FIANACE_DASHBOARD/
-│
-├── DASHBAORD.xlsx
-├── DATA.xlsx
-├── README.md
-│
-└── images/
-    ├── personal-finance-dashboard.png
-    ├── financial-goals-tracker.png
-    ├── summary-analysis.png
-    └── transaction-data.png
-```
-
-> If your repository uses different workbook filenames, keep the actual filenames and update this structure accordingly.
-
-## 🚀 How to Use
-
-1. Clone or download this repository.
-2. Open the Excel workbook in Microsoft Excel.
-3. Go to the `Dashboard` worksheet.
-4. Use the Year and Month slicers to filter the dashboard.
-5. Review the KPI cards, charts, expense breakdown, investment allocation, and financial goals.
-6. Explore the `Data` and summary worksheets for supporting information.
 
 ## 📚 Learning Outcomes
 
